@@ -3,7 +3,7 @@
 
 <h4>Project Layout</h4>
 <div>
-  <img style="border-radius: 6px;" src=".github/layout-1.png">
+  <img style="border-radius: 16px;" src=".github/layout-1.png">
 <div>
 
 # About me 
